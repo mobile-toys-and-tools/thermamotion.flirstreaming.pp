@@ -1,7 +1,7 @@
 # thermamotion.flirstreaming.pp
 ![This is an image](ic_launcher.png)
 
-Last Updated: 07/24/2023
+Last Updated: 07/25/2023
 
 # Privacy Policy for Mobile Application
 This privacy policy governs your use of the software application ThermalMotion that was
